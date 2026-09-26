@@ -24,3 +24,6 @@
 5. **Completion Tracking & Instant Toast Notifications:** Features a permanent **Mark as Done** action and a **Remove (`X`)** option on planned lifts, paired with custom top-right toast notifications (green checkmarks for successful actions and red cross alerts for duplicate entries) and a custom **404 Not Found** page for invalid routes.
 
 ---
+
+vercel link- [https://fit-log-workout-library-daily-lift.vercel.app/]
+github repo- [https://github.com/SaifulIslam48]
